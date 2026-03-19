@@ -6,7 +6,7 @@ on:
       agent_name:
         description: 'cucunaga12'
         required: true
-        default: 'asclaw'
+        default: 'cucunaga12'
       agent_description:
         description: 'asc'
         required: true
